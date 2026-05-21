@@ -1,6 +1,6 @@
 # EXNO2DS
 # AIM:
-      To perform Exploratory Data Analysis on the given data set.
+To perform Exploratory Data Analysis on the given data set.
       
 # EXPLANATION:
   The primary aim with exploratory analysis is to examine the data for distribution, outliers and anomalies to direct specific testing of your hypothesis.
@@ -23,7 +23,9 @@ STEP 7: Use cross tabulation method to quantitatively analyze the relationship b
 STEP 8: Use heatmap method of representation to show relationships between two variables, one plotted on each axis.
 
 ## CODING AND OUTPUT
-![alt text](imgs/CollabNotebook.png) 
+![alt text](imgs/CollabNotebook1.png) 
+
+Refer : [Collab Notebook](https://colab.research.google.com/drive/13cIjR9KUgj11p2zpjL827pNz4qs4JoCj?usp=sharing)
 
 # RESULT
-        <<INCLUDE YOUR RESULT HERE>>
+Exploratory Data Analysis on the given data set is performed.
